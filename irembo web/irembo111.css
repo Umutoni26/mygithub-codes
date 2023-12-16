@@ -1,0 +1,50 @@
+.image{
+    width: 20%;
+}
+.hello{
+    background-color: rgb(205, 230, 230);
+}
+.input-group{
+    width: 700px;
+    margin-left: 20%;
+     
+}
+.hy{
+    font-size: 15px;
+}
+.hy:hover{
+    text-decoration: underline ;
+    color: blue;
+    
+}
+h3{
+    color: 
+    rgb(32, 32, 91);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.end{
+    
+   font-size: 13px;
+}
+.icon{
+    color: rgb(7, 7, 72);
+}
+.btn{
+    background-color: rgb(102, 185, 245);
+  
+}
+.hero:hover{
+    background-color: rgb(124, 170, 225);
+    border-radius: 6px;
+    
+}
+
+.hl{
+    position: relative;
+    border-left: 2px solid #e0edf9;
+    height: 200px;
+    margin-left: 5px;
+    bottom: 6px;
+
+}

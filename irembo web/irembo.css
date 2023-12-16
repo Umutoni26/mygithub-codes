@@ -1,0 +1,55 @@
+.image{
+    width: 7%;
+   
+}
+.hero:hover{
+    background-color: rgb(124, 170, 225);
+    border-radius: 6px;
+    
+}
+.hello{
+    background-color: rgb(203, 233, 233);
+}
+
+.end{
+    display: flex;
+   font-size: 13px;
+}
+h3{
+    color: 
+    rgb(32, 32, 91);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.icon{
+    color: rgb(7, 7, 72);
+}
+.input-group{
+    width: 700px;
+    margin-left: 20%;
+     
+}
+p{
+    font-size: 14px;
+    padding-left: 15px;
+}
+
+p:hover{
+    text-decoration: underline ;
+    color: blue;
+    
+}
+.btn{
+    background-color: rgb(102, 185, 245);
+  
+}
+
+.hl{
+    position: relative;
+    border-left: 2px solid #e0edf9;
+    height: 200px;
+    margin-left: 5px;
+    bottom: 6px;
+
+}
+
